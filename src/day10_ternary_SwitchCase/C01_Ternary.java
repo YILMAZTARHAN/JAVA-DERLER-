@@ -1,4 +1,4 @@
-package day10_ternary_SwitchCase;
+package Day10_ternary_SwitchCase;
 
 import java.util.Scanner;
 

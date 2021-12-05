@@ -1,4 +1,4 @@
-package day03_Scanner;
+package Day03_Scanner;
 
 public class C03_SwapVariables2 {
 

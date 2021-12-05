@@ -1,4 +1,4 @@
-package day01_02_Variables;
+package Day01_02_Variables;
 
 public class C01_Veriables {
 	

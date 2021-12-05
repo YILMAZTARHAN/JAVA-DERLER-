@@ -1,4 +1,4 @@
-package day10_ternary_SwitchCase;
+package Day10_ternary_SwitchCase;
 
 public class C11_SMConcat {
 
