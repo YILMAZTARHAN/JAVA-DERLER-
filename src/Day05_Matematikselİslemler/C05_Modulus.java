@@ -41,7 +41,7 @@ public class C05_Modulus {
         sayi/=10;
         
         System.out.println("Girdiginiz sayinin rakamlar toplami : " + rakamlarToplami);
-
+scan.close();
 
 	}
 

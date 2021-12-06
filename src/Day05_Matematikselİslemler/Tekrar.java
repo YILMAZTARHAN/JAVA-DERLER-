@@ -105,7 +105,7 @@ public class Tekrar {
 		
 		
 		
-		
+		scan.close();
 		
 		
 		

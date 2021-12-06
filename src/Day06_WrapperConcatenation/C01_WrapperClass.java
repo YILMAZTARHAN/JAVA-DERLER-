@@ -2,6 +2,7 @@ package Day06_WrapperConcatenation;
 
 public class C01_WrapperClass {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		int sayi1=10;

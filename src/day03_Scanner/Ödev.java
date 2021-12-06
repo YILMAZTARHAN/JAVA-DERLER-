@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Ödev {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		//Soru 1) Kullanicidan iki tamsayi alip bu sayilarin toplam,fark ve carpimlarini yazdirin
 		 
@@ -106,7 +107,7 @@ public class Ödev {
 		 
 		
 		 
-		 
+		scan.close(); 
 		
 		
 		
