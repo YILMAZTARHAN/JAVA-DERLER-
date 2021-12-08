@@ -6,7 +6,9 @@ public class Isci extends Muhasebe {
 	protected String meslegi;
 	protected String sendika;
 	
-	
+	 public Isci(){
+		System.out.println("Ýþçi paramtresiz constructor çalýþtý");
+	}
 	
 	
 	public static void main(String[] args) {

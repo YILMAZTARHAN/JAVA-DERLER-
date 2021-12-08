@@ -8,6 +8,10 @@ public class Personel {
 	protected String telNo;
 	protected int yas;
 	
+	Personel(){
+		System.out.println("Personel paramtresiz constructor çalýþtý");
+	}
+	
 	
 	//Eger variable'lara access modifier yazmazsak java access modifier olarak default
 	// access modifier atar boyle olursa sadece o package altindaki child classlar

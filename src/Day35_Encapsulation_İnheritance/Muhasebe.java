@@ -6,7 +6,9 @@ public class Muhasebe extends Personel {
 	protected String statü;
 	protected int maas;
 	
-	
+	public Muhasebe(){
+		System.out.println("Muhasebe paramtresiz constructor çalýþtý");
+	}
 	
 	
 	public static void main(String[] args) {
@@ -17,7 +19,7 @@ public class Muhasebe extends Personel {
    System.out.println(clsn1.soyisim);// null
 		
 		
-		
+	
 		
 		
 		
