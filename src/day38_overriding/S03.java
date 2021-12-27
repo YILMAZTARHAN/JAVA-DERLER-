@@ -1,4 +1,4 @@
-package day38_overriding;
+package Day38_Overriding;
 
 class Derived01{
 	public void getDetails() {

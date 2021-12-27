@@ -1,4 +1,4 @@
-package day38_overriding;
+package Day38_Overriding;
 
 class ParentClass {
 	public void getDetails(String temp) {
